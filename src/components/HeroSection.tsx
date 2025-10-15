@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Download } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import profileImage from "../assets/profile.jpeg";
+import profileImage from "../assets/profile.jpg";
 
 const HeroSection = () => {
   const [currentRole, setCurrentRole] = useState(0);
