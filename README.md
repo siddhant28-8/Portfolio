@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – Vedant Rakesh Rai
+# 🌐 Personal Portfolio – Siddhant Rakesh Rai
 
 A sleek, modern, and responsive **portfolio website** built with React, TailwindCSS, and TypeScript.  
 Showcasing my journey, skills, education, and projects with smooth animations, dark mode, and a premium design.
