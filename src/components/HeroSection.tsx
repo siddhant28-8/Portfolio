@@ -70,9 +70,7 @@ const HeroSection = () => {
 
             {/* Clean Intro Paragraph */}
             <p className="text-sm sm:text-base md:text-lg text-muted-foreground mb-6 sm:mb-8 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-              Hi, I’m Siddhant — a Full Stack Developer passionate about building intuitive, scalable, and impactful digital solutions. 
-              Full Stack Developer | Problem Solver | Lifelong Learner — turning ideas into seamless experiences. 
-              Crafting code with creativity and precision — from intuitive interfaces to scalable backend systems.
+              Hi, I’m Siddhant — a Full Stack Developer driven by a passion for creating intuitive, scalable, and impactful digital solutions. I specialize in transforming ideas into seamless user experiences through clean, efficient, and creative code. With a strong foundation in both frontend and backend development, I enjoy building products that are not only technically robust but also user-centric. A problem solver and lifelong learner, I’m constantly exploring new technologies to craft innovative solutions that make a difference.
             </p>
 
             <a href="/Siddhant_Rakesh_Rai.pdf" download>
