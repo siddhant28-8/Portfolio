@@ -92,7 +92,7 @@ const AboutSection = () => {
                   >
                     <div className="relative group h-full">
                       {/* Gradient Border */}
-                      <div className="absolute -inset-[2px] bg-gradient-to-r from-primary via-primary to-accent rounded-xl opacity-60 sm:opacity-75 group-hover:opacity-100 transition duration-500 blur-[2px] group-hover:blur-none"></div>
+                      <div className="absolute -inset-[2px] bg-gradient-to-r from-primary/5 via-primary to-accent/5 rounded-xl opacity-60 sm:opacity-75 group-hover:opacity-100 transition duration-500 blur-[2px] group-hover:blur-none"></div>
 
                       {/* Card */}
                       <Card className="relative w-full aspect-square bg-background/80 backdrop-blur-xl border-0 rounded-xl 
@@ -124,7 +124,7 @@ const AboutSection = () => {
               </CarouselContent>
 
               {/* Navigation Buttons - Hidden on mobile, visible on larger screens */}
-              <div className="hidden sm:block">
+              <div>
                 <CarouselPrevious
                   className="absolute -left-10 md:-left-14 lg:-left-20 top-1/2 -translate-y-1/2
                             w-11 h-11 md:w-12 md:h-12 lg:w-13 lg:h-13 rounded-full bg-background/30 backdrop-blur-xl border border-primary/20
